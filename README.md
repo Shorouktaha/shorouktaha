@@ -12,35 +12,35 @@
 
 Area of knoweldge & Experience
 
-  Data Analysis
+    Data Analysis
   
-  Data Base
+    Data Base
   
-  Data Structre
+    Data Structre
   
-  Statistics
-  
-  Python
-  
-  Power BI
-  
-  Excel
-  
-  Exploratory Data
-  
-  Project Management
+    Statistics
+    
+    Python
+    
+    Power BI
+    
+    Excel
+    
+    Exploratory Data
+    
+    Project Management
   
   
 Business intelligence tools :
 
-  Microsoft Power BI
-  
-  Microsoft Excel
-  
-  DAX
-  
-  Power Query
-  
+    Microsoft Power BI
+    
+    Microsoft Excel
+    
+    DAX
+    
+    Power Query
+    
   Google Colab
   
 
