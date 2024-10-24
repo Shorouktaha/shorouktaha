@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi I am Shorouk Taha 
+👀 I’m Data Analyst
+🌱 I’m Computer Science Graduted @Faculty of Science , Beni- Suef university
+💞️ I’m looking to collaborate on data integration and ETL projects using Python, SQL, and Power BI. My focus is on extracting valuable insights from complex datasets, optimizing data workflows, and creating visualizations that drive informed decision-making.
+📫 Email :shorouktaha13@gmail.com
+📫 Linkedin : https://www.linkedin.com/in/shorouk-taha/
 
-<!--
-**Shorouktaha/shorouktaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Area of knoweldge & Experience
+  Data Analysis
+  Data Base
+  Data Structre
+  Statistics
+  Python
+  Power BI
+  Excel
+  Exploratory Data
+  Project Management
+  
+Business intelligence tools :
+  Microsoft Power BI
+  Microsoft Excel
+  DAX
+  Power Query
+  Google Colab
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Languages and tool](Languages and tool)
+[Find me in Social].(find me in social)
+ 
