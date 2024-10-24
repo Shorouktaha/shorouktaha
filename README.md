@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm shorouk taha</h1>
 <h3 align="center">A passionate Data Analyst skilled in analyzing data to visualizing then presenting automated reports.</h3>
 
+<details>
+  <summary><strong>About me</strong></summary>
 - 👯I'm currently looking for opportunities in **the roles of Data analysis or Business analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shorouktaha](https://github.com/Shorouktaha)
 
 - 📫 How to reach me **shorouktaha13@gmail.com**
-
+  </details>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/shorouk-taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shorouk-taha" height="30" width="40" /></a>
 </p>
 
+
+<details>
+  <summary><strong>Skills</strong></summary>
+ 
 <h3 align="left">langauges:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -22,5 +29,10 @@
   ![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  
+ ## Data Visualization
+  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C1528?style=for-the-badge&logo=Soundcharts&logoColor=white)
 
+  </details>
   
