@@ -3,6 +3,9 @@
 
 <details>
   <summary><strong>About me</strong></summary>
+  
+- 🏫 Fresh graduate From Computer Science at Beni-Suef University
+  
 - 👯I'm currently looking for opportunities in **the roles of Data analysis or Business analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shorouktaha](https://github.com/Shorouktaha)
