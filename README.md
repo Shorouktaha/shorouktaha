@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **shorouktaha13@gmail.com**
   </details>
+
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<p align="center">
+<a href="https://linkedin.com/in/shorouk-taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shorouk-taha" height="30" width="40" /></a>
+</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
