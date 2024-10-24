@@ -11,21 +11,37 @@
 📫 Linkedin : https://www.linkedin.com/in/shorouk-taha/
 
 Area of knoweldge & Experience
+
   Data Analysis
+  
   Data Base
+  
   Data Structre
+  
   Statistics
+  
   Python
+  
   Power BI
+  
   Excel
+  
   Exploratory Data
+  
   Project Management
   
+  
 Business intelligence tools :
+
   Microsoft Power BI
+  
   Microsoft Excel
+  
   DAX
+  
   Power Query
+  
   Google Colab
+  
 
  
