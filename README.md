@@ -41,7 +41,7 @@ Business intelligence tools :
     
     Power Query
     
-  Google Colab
+    Google Colab
   
 
  
